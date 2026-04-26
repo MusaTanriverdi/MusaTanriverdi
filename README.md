@@ -24,6 +24,7 @@ Currently working as an <strong>Odoo Developer</strong> and building scalable, m
 
 ### Backend & ERP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### Frontend
@@ -58,17 +59,6 @@ Currently working as an <strong>Odoo Developer</strong> and building scalable, m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MusaTanriverdi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaTanriverdi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
