@@ -61,11 +61,11 @@ Currently working as an <strong>Odoo Developer</strong> and building scalable, m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MusaTanriverdi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaTanriverdi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -73,8 +73,12 @@ Currently working as an <strong>Odoo Developer</strong> and building scalable, m
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/MusaTanriverdi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/musatanriverdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
